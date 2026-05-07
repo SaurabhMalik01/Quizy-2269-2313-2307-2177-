@@ -15,7 +15,7 @@ Quizy is an interactive quiz application designed to create, attempt, and analyz
 
 ## 📌 Project Type
 
-**Type-L: Copyright Project**
+**Type: Copyright Project**
 
 ---
 
