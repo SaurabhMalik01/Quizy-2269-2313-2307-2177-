@@ -33,15 +33,3 @@ Quizy is an interactive quiz application designed to create, attempt, and analyz
 - Clean and responsive UI  
 - User-friendly dashboard  
 
----
-
-## 🛠️ Tech Stack
-
-- Frontend: Next.js / React  
-- Backend: Node.js / API routes  
-- Database: Prisma / PostgreSQL  
-- Styling: Tailwind CSS  
-
----
-
-## 📂 Project Structure
